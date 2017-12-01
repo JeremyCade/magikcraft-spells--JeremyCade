@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function lightning() {
-	magik.shakti();
+    magik.doNTimes(() => magik.shakti(), 10, 100);
 }
