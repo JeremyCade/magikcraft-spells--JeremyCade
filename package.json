@@ -1,0 +1,9 @@
+{
+  "name": "JeremyCade_magikcraft_package_json",
+  "version": "0.0.0",
+  "dependencies": {
+    "magikcraft-api": "git+ssh://git@github.com:jwulf/magikcraft-api.git",
+    "magikcraft-lore-do":""
+  },
+  "author": "JeremyCade"
+}
