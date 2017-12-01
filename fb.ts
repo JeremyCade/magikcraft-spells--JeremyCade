@@ -1,5 +1,8 @@
 const magik = magikcraft.io;
 
 function fb() {
-    magik.infierno();
+    for (let i = 0; i < 10; i++) 
+    {
+        magik.infierno();
+    }
 }
