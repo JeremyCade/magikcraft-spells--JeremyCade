@@ -1,4 +1,4 @@
-const magikcraft.io
+const magik = magikcraft.io;
 
 function fly() {
     magik.volare();
