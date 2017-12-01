@@ -1,5 +1,6 @@
 const magik = magikcraft.io;
 
 function fb() {
-    magik.infierno();
+    magik.doNTimes(() => magik.infierno(), 10, 100);
+    ;
 }
