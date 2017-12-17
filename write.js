@@ -10,5 +10,5 @@ function write() {
 }
 
 function binary(letter) {
-    return letter;
+    return letter.map(line => line.toString(2));
 }
