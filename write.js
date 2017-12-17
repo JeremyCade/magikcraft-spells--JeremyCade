@@ -8,3 +8,7 @@ function write() {
         d:[256,195,195,195,195,195,195,256]
     };
 }
+
+function binary(letter) {
+    return letter;
+}
